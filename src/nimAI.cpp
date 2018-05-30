@@ -2,7 +2,7 @@
 #include<math.h>
 using namespace std;
 
-
+//changes
 
 
 //flag for no good move
